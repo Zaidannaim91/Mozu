@@ -1,0 +1,25 @@
+{
+   "title":"[Mozu] I Can't Hold It In!",
+   "description":"",
+   "author":"Mozu",
+   "artist":"Mozu",
+   "cover":"https://i.imgur.com/jOAlQNO.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yFdoSVv"
+         },
+         "last_updated":1624606143,
+         "title":"I Can't Hold It In!",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/OfjNHwJ"
+         },
+         "last_updated":1624606143,
+         "title":"I Can't Hold It In! Prologue",
+         "volume":"2"
+      }
+   }
+}
