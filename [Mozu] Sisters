@@ -1,0 +1,33 @@
+{
+   "title":"[Mozu] Sisters",
+   "description":"",
+   "author":"Mozu",
+   "artist":"Mozu",
+   "cover":"https://i.imgur.com/zktOrEW.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NiYCEWH"
+         },
+         "last_updated":1624606143,
+         "title":"Sisters",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/BWerGOR"
+         },
+         "last_updated":1624606143,
+         "title":"Sisters #2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/6KKDjCg"
+         },
+         "last_updated":1624606143,
+         "title":"Sisters After",
+         "volume":"3"
+      }
+   }
+}
